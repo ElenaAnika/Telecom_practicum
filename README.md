@@ -1,2 +1,2 @@
 # Practicum_projects
-Some of study projects based on real business cases
+Predictions of churned clients with calculation of economic effects for business.
